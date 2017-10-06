@@ -1,0 +1,208 @@
+{
+name: Simla Zeynep Çırak
+		  title: Designer
+		  avatar: simla-zeynep-cirak.jpg
+		  phone: +358 44 9527770
+		  email: tesvikiye@gmail.com
+		  sourceUrl: https://github.com/berkin/resume
+		  social: {
+linkedin: https://www.linkedin.com/in/simlaz/
+		  }
+summary:
+	  '''
+		  - Design the functionality and overall visual elements in digital products for more than 10 years.
+		  '''
+		  education: [
+		  {
+title: Bachelor of Fine Arts (BFA), Fine Arts
+		   school: Mimar Sinan University
+		   faculty: Fine Arts
+		   end: 2001
+		  }
+		  ],
+		  experiences: [
+		  {
+begin: Jan 2013
+		   end: Present
+		   company: Freelance
+		   title: Design Director
+		   description:
+		   '''
+		   - As a designer i work closely with the development team to design usable and visually compelling web and mobile applications.
+		   '''
+		  },
+		  {
+begin: Feb 2011
+		   end: Jan 2013
+		   company: Ciner Yayın Holding
+		   title: Design Director
+		   description:
+		   '''
+		   - Art direction and design for Ciner Media web sites, portals, mobile applications, newsletters, social media platforms, banners etc.
+		   '''
+		  },
+		  {
+begin: Dec 2008
+		   end: Jun 2011
+		   company: Acotel Interactive
+		   title: Interactive Art Director
+		   description:
+		   '''
+		   - Art direction and design for Flycell newsletters, banners, websites & microsites.
+		   '''
+		  },
+		  {
+begin: Oct 2009
+		   end: Feb 2011
+		   company: Dogan Gazetecilik A.S
+		   title: Senior Web & Mobile Designer
+		   description:
+		   '''
+		   - iPad design for Milliyet Newspaper, www.milliyet.com.tr
+		   iTunes App Store - iMilliyet HD
+
+		   - Website design for a social networking site, Radikal.com.tr.
+		   (Will be online soon)
+
+		   - Website design for 2010 World Cup, Fanatik Newspaper.
+		   http://fifa2010.fanatik.com.tr
+
+		   - Designed a customer oriented website module for
+		   the restaurants. (will be online soon)
+
+		   - iPhone apllication design for the social networking site, bizebiz.
+		   www.bizebiz.com
+		   (Will be on the App Store soon)
+
+		   - iPhone application design, Posta Newspaper. www.posta.com.tr
+		   '''
+		  },
+		  {
+begin: Jul 2007
+		   end: Aug 2008
+		   company: Code Interactive
+		   title: Interactive Art Director
+		   description:
+		   '''
+		   - SekerBonus art direction and design for
+		   www.sekerbonus.com.tr
+
+		   - Sekerbank art direction and design for
+		   www.sekerbank.com.tr
+
+		   - TEB Insurance Interactive game for kiosks, e-card
+		   design for the Mother’s Day
+
+		   - TEB Factoring E-card design for the New Year
+
+		   - Concept art direction and design for
+		   www.concept.com.tr
+
+		   - Opet Advergame design
+
+		   - GalaTown Teaser animation, website design and
+		   art direction.
+		   '''
+		  },
+		  {
+begin: Oct 2006
+		   end: Jul 2007
+		   company: Arc Marketing Services
+		   title: J. Interactive Art Director
+		   description:
+		   '''
+		   - Microsite, mailing, banner, e-card, page skin,
+	   landing page, e-bulletin, form designs and
+		   animations for interactive media. The brands i have worked for are;
+
+	   - Chevrolet microsite design for “The Doctors
+		   Project”
+
+		   - Turkcell wide banners, tall banners, box banners,
+		   product animations, mailings
+
+			   - Koc Allianz mailing and banner designs
+
+			   - Setkom
+
+			   - Dogus Otomotiv
+
+			   - Boyner25
+
+			   - Leo Burnett
+
+			   - J&B main page flash banner for “Start A Party”
+			   '''
+		  },
+		  {
+begin: May 2006
+		   end: Oct 2006
+		   company: Viacom / MTV Networks
+		   title: Web & TV Graphic Designer
+		   description:
+		   '''
+		   WEB
+		   - Web page design concept with the VJ Search banner,
+	   program banners, “MTV Turkey” box banners, search consoles, poll sections,
+	   europe &amp; america charts, downloads and
+		   news section.
+
+		   - Downloads; screensavers, and wallpapers.
+
+		   - User sign-in screens.
+
+		   - “Artist on Spot”, and “Programs on MTV
+		   Turkey” page designs.
+
+		   - “This Is Your MTV”, and “JOCT” page &amp;
+	   banner designs.
+
+		   - E-mail signatures, e-card for the press conference, wallpapers for mobile, under construction page
+
+		   - Powerpoint presentation for the MTV Press Conference, Sumner Redstone and MTV &amp; Sony Ericsonn
+
+		   - MTV Manifesto presentation
+
+		   TV
+		   - Alternative clip-title designs
+
+		   - Background textures
+
+		   - Still images for fresh &amp; exclusive, upnext banner,
+
+		   - Endboard and the bug/upperthirds, and the clip-titling.
+			   '''
+		  },
+		  {
+begin: Sep 2005
+		   end: May 2006
+		   company: Biyer
+		   title: Lead Interactive Designer
+		   description:
+		   '''
+		   '''
+		  },
+		  {
+begin: Jan 2004
+		   end: Sep 2005
+		   company: Code Interactive
+		   title: Lead Interactive Designer
+		   description:
+		   '''
+		   '''
+		  },
+		  {
+begin: Jul 2001
+		   end: Sep 2001
+		   company: Saatchi & Saatchi
+		   title: Intern
+		   description:
+		   '''
+		   '''
+		  }],
+languages: [
+			   Turkish
+				   English
+],
+conferences: []
+}
